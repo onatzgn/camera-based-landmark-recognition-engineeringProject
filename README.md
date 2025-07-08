@@ -39,4 +39,3 @@ Summarizes the evaluation of the model including:
 
 - Accuracy, precision, recall, and F1-score  
 - Confusion matrix and interpretation  
-- Comparison between performance in Python and on-device results
