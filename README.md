@@ -6,7 +6,7 @@ This project includes several deep learning components that are documented in de
 
 ### Use Case and Sequence Diagrams  
 Report Page: 22  
-Describes the interaction between the user, the mobile device camera, the deep learning model, and the augmented reality overlay system.
+Describes the interaction between the user, the mobile device camera, and the deep learning model
 
 ### Deep Learning Model Development and Integration  
 Report Pages: 40–48  
